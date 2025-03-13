@@ -1,16 +1,16 @@
-## Hi there 👋
+# 👋 Hi, Maulida Aprina Putri!  
 
-<!--
-**Najwah12/Najwah12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Currently studying **Information Technology** at **Politeknik Negeri Malang**  
+📌 Passionate about **business information systems & software development**  
+💡 Inspired by tech innovations (and a little bit of K-drama magic ✨)  
 
-Here are some ideas to get you started:
+## 🚀 What I Do  
+- Learning & building projects with **Java, HTML, CSS, JavaScript**  
+- Exploring **data structures, algorithms, and backend development**  
+- Interested in **software development, UI/UX, and business analytics**  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔗 Connect with Me  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/maulida-aprina-putri)  
+[![GitHub](https://img.shields.io/badge/GitHub-black?logo=github&style=for-the-badge)](https://github.com/maulidaaprinaputri)  
+
+Let's build something cool together! 🚀
